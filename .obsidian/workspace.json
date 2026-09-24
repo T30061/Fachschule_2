@@ -59,7 +59,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -201,8 +203,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1736784c0ef5f41c",
+  "active": "8fc91a1d203f65fe",
   "lastOpenFiles": [
+    "CORPH-SOM/17.0.2026.md",
+    "CORPH-SOM/CORPH-SOM.md",
+    "CORPH-SOM/24.09.2026.md",
     "Fachschule_2",
     "res/Pasted image 20260917134714.png",
     "res/Pasted image 20260917134704.png",
@@ -210,9 +215,7 @@
     "Neuer Ordner",
     "Pasted image 20260917134714.png",
     "Pasted image 20260917134704.png",
-    "CORPH-SOM/CORPH-SOM.md",
     "Start.md",
-    "CORPH-SOM/17.0.2026.md",
     "CORPH-SOM"
   ]
 }
