@@ -28,15 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CORPH-SOM/8.10.2026.md",
+                "file": "CORPH-SOM/Arbeitsberichte/AB 8.10.206.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.10.2026"
+              "title": "AB 8.10.206"
+            }
+          },
+          {
+            "id": "600d40d63b2cc701",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "50abf12ff1e7fadd",
@@ -217,11 +228,13 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1736784c0ef5f41c",
+  "active": "d35f1d2f673dfdaf",
   "lastOpenFiles": [
     "CORPH-SOM/8.10.2026.md",
-    "CORPH-SOM/COMMAND CHEAT SHEET.md",
+    "CORPH-SOM/Arbeitsberichte/AB 8.10.206.md",
+    "CORPH-SOM/Arbeitsberichte",
     "CORPH-SOM/CORPH-SOM.md",
+    "CORPH-SOM/COMMAND CHEAT SHEET.md",
     "Start.md",
     "CORPH-SOM/1.10.2026.md",
     "CORPH-SOM/17.0.2026.md",
